@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <regex.h>
 #include "strings.h"
 
 size_t strlen(const char *s) {
